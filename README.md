@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">  
-  <img width="512px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj6&langs_count=5&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Languages"/>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj6&langs_count=5&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Languages"/>
 </p>
