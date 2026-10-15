@@ -20,10 +20,14 @@ Here are some ideas to get you started:
   <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=minhaj6&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p> -->
 
-<p align="center">  
-  <img width="512px" src="https://github-readme-stats.vercel.app/api?username=minhaj6&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Statistics"/>
+<!-- <p align="center">  
+  <img width="512px" src="https://github-stats-extended.vercel.app/api?username=minhaj6&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Statistics"/>
 </p>
 
 <p align="center">  
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj6&langs_count=5&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Languages"/>
+  <img width="300px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=minhaj6&langs_count=5&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Languages"/>
+</p> -->
+
+<p align="center">  
+  <img width="600px" src="https://github-stats-extended.vercel.app/api/?username=minhaj6&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Minhaj%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
 </p>
